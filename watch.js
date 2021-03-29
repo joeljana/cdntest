@@ -4,7 +4,7 @@ var text = document.querySelector ("#nowtext") ;
 // function start here 
 function abpananda(){
     pimg.src='https://i.ibb.co/0ntcrRH/abp-ananda.png';
-    text.innerHTML = ("ABP Ananda") ;
+    text.innerHTML = ("ABP Ananda joel") ;
 }
 function news18bangla(){
     pimg.src = "https://i.ibb.co/YRNvJ2R/news18-bangla.png" ;
