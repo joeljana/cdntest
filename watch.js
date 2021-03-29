@@ -1,4 +1,9 @@
 // variable start here @@@@@@@@@@@@@@@@@ new cdn
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
 var img = document.querySelector ("#pimg") ;
 var text = document.querySelector ("#nowtext") ;
 // function start here 
