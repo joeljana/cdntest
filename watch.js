@@ -1,10 +1,10 @@
-// variable start here 
+// variable start here @@@@@@@@@@@@@@@@@ new cdn
 var img = document.querySelector ("#pimg") ;
 var text = document.querySelector ("#nowtext") ;
 // function start here 
 function abpananda(){
     pimg.src='https://i.ibb.co/0ntcrRH/abp-ananda.png';
-    text.innerHTML = ("ABP Ananda") ;
+    text.innerHTML = ("ABP Ananda new cdn") ;
 }
 function news18bangla(){
     pimg.src = "https://i.ibb.co/YRNvJ2R/news18-bangla.png" ;
