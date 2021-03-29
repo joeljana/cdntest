@@ -9,7 +9,7 @@ var text = document.querySelector ("#nowtext") ;
 // function start here 
 function abpananda(){
     pimg.src='https://i.ibb.co/0ntcrRH/abp-ananda.png';
-    text.innerHTML = ("ABP Ananda new cdn") ;
+    text.innerHTML = ("ABP Ananda new cdn 25") ;
 }
 function news18bangla(){
     pimg.src = "https://i.ibb.co/YRNvJ2R/news18-bangla.png" ;
