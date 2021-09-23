@@ -61,5 +61,5 @@ function znews(){
 }
 function cncalcutta(){
     pimg.src = "https://i.ibb.co/bNTXt0H/cnn-Calcutta.png" ;
-    text.innerHTML = ("Calcutta News joel joel");
+    text.innerHTML = ("Calcutta News joel joel joel");
 }
